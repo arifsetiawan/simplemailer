@@ -1,7 +1,7 @@
 
-# Simple Emailer
+# Simple Nodejs Emailer
 
-Tested with gmail. You can use other email service like mailjet, sendgrid, etc. It uses [nodemailer](https://github.com/nodemailer/nodemailer).
+Tested with gmail. You can use other email service like mailjet, sendgrid, etc. It uses [nodemailer](https://github.com/nodemailer/nodemailer). See note [here](https://github.com/nodemailer/nodemailer#tldr-usage-example) about using gmail.
 
 ### Clone
 ```
